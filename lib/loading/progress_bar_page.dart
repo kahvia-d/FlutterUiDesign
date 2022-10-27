@@ -42,7 +42,7 @@ class _ProgressBarPageContentState extends State<ProgressBarPageContent> {
             circularStrokeCap: CircularStrokeCap.round,
             //这里圆环中间可放置任意元素。
             center: const CircleAvatar(
-              backgroundImage: AssetImage("images/head/nilu.png"),
+              backgroundImage: AssetImage("assets/images/nilu.png"),
               radius: 140,
             ),
             //percent为进度
@@ -58,7 +58,7 @@ class _ProgressBarPageContentState extends State<ProgressBarPageContent> {
                 if(progress==1) {
                   progress=0;
                 } else {
-                  progress=0.4;
+                  progress=1;
                 }
               });
             },

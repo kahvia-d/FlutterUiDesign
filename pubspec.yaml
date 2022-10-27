@@ -32,6 +32,8 @@ dependencies:
   flutter:
     sdk: flutter
   percent_indicator: ^4.0.1
+  lottie: ^1.4.3 # A library for animations
+  smooth_page_indicator: ^1.0.0+2
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -65,7 +67,8 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   assets:
-    - images/
+    - assets/images/
+    - assets/lotties/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
