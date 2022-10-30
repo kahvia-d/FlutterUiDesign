@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'compass2/CompassPage2.dart';
+import 'CompassPage2.dart';
 
 void main(){
   runApp(const MyApp());
