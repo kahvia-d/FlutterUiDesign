@@ -38,6 +38,7 @@ dependencies:
   flutter_compass: ^0.7.0
   smooth_compass: ^1.0.5
   provider: ^6.0.4
+  awesome_notifications: ^0.7.4+1
 
 
   # The following adds the Cupertino Icons font to your application.
