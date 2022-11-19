@@ -55,7 +55,7 @@ class _NotificationTestPageState extends State<NotificationTestPage> {
     return const Center(
       child: ElevatedButton(
         onPressed: createAnNotification,
-        child: Text("Hello")
+        child: Text("Hello Kahvia")
       ),
     );
   }
